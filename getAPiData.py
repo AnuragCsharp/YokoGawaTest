@@ -24,7 +24,7 @@ if __name__ == "__main__":
     university_data_url = "http://universities.hipolabs.com/search"
     country_info_data_url = "https://restcountries.com/v3.1/all"
     
-    print("Fetching university data...")
+    print("Grabbing the university data...")
     university_data = fetch_data_from_api(university_data_url)
     if university_data:
         print(f"Retrieved {len(university_data)} universities.")
