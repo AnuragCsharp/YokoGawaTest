@@ -1,1 +1,1 @@
-This file is in the Main branch :) 
+This is a generic file which is on Both branch
